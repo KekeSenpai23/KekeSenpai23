@@ -7,6 +7,7 @@ This github will mostly contain either my projects or writeups for the CTFs I pl
 My Hobbies include gaming and coding.<br>
 I have an interest in trying almost every creative thing.<br>
 I enjoy Binary Exploitation and Reverse Engineering the most but I manage to do all types of challenges.<br>
+<br>
 CTFS I have played and won:
 <div>
 <ul>
